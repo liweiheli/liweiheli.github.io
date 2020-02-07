@@ -1,0 +1,81 @@
+body{
+  background-color: grey;
+  background-image: url("picture/back.png");
+  background-size: 650px 1600px;
+  background-repeat: no-repeat;
+  background-position: center;
+  box-shadow: 1 5 5;
+
+}
+
+h1{
+  position: absolute;
+  font-family: gill-sans-nova,sans-serif;
+font-weight: 400;
+font-size: 7.5em;
+font-style: normal;
+right:19%;
+bottom:71%;
+transform: scale(.6,1.1);
+
+}
+
+p1{
+  position:absolute;
+  font-style:garamond;
+  bottom:78.5%;
+  font-size: 0.6em;
+  right:40.5%;
+  opacity: 0.6;
+}
+
+p2{
+  position:absolute;
+  font-style:garamond;
+  bottom:76%;
+  font-size: 0.6em;
+  right:43%;
+  opacity: 0.6;
+}
+
+p3{
+  position:absolute;
+  font-style:garamond;
+  bottom:73.5%;
+  font-size: 0.6em;
+  right:44.6%;
+  opacity: 0.6;
+}
+
+
+p4{
+  position:absolute;
+  position: absolute;
+  font-family: gill-sans-nova,sans-serif;
+  font-weight: 700;
+  bottom:78.6%;
+  font-size: 0.6em;
+  right:36%;
+  opacity: 0.6;
+}
+
+p5{
+  position:absolute;
+  font-style:garamond;
+  bottom:78.6%;
+  font-size: 0.6em;
+  right:31.5%;
+  opacity: 0.6;
+}
+
+
+
+.image2{
+  position:absolute;
+  left:31%;
+  bottom:5%;
+  width:38%;
+  height:65%;
+  z-index:3;
+
+}
